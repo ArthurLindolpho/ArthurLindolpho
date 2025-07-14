@@ -23,6 +23,6 @@ Me chamo Arthur Tavares Lindolpho, tenho 20 anos e sou natural do Rio de Janeiro
     title="MYSQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg](https://www.flaticon.com/br/icone-gratis/servidor-sql_4299956)" 
+    src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Fbr%2Ficone-gratis%2Fservidor-sql_5815809&psig=AOvVaw3eVPemjAmgtW_6rRY78rKy&ust=1752620107761000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLjU6uq4vY4DFQAAAAAdAAAAABAL" 
 />
 
