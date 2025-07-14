@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Arthur Lindolpho
+# 👨‍💻 Arthur Lindolpho
 
 **`Estudante de engenharia da computação`**
 
